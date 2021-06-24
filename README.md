@@ -6,6 +6,7 @@ composer require yunlong/mselect
 ## Usage
 ```
 $form->mselect('column')->options([0=>'option1',1=>'option2'])->load('loadColumn','/yourPath');
+
 $form->select('loadColumn');
 ```
 ## License
