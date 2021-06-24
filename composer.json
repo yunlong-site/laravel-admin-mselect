@@ -1,0 +1,29 @@
+{
+    "name": "yunlong/mselect",
+    "description": "Multi-select linkage box extension for laravel-admin",
+    "type": "library",
+    "keywords": ["laravel-admin","multiSelect"],
+    "require": {
+        "php": ">=7.0.0",
+        "encore/laravel-admin": "~1.6"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "yunlong",
+            "email": "yunlong@nbyunlong.cn"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "YunLong\\MSelect\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "YunLong\\MSelect\\MSelectServiceProvider"
+            ]
+        }
+    }
+}
