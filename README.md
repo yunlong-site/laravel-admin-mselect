@@ -1,4 +1,4 @@
-# 基于 laravel-admin 的 multiSelect 表单组件而拓展的多选联动框
+# 基于 laravel-admin 的 multipleSelect 表单组件而拓展的多选联动框
 ## Installation
 ```
 composer require yunlong/mselect

@@ -2,7 +2,7 @@
     "name": "yunlong/mselect",
     "description": "Multi-select linkage box extension for laravel-admin",
     "type": "library",
-    "keywords": ["laravel-admin","multiSelect"],
+    "keywords": ["laravel-admin","multipleSelect","多选","联动"],
     "require": {
         "php": ">=7.0.0",
         "encore/laravel-admin": "~1.6"
